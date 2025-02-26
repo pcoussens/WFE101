@@ -1,0 +1,17 @@
+<style>
+   
+    h2{   
+        color:lightblue;
+    }
+    .nav{
+        align-context:end;
+        background-color:gray;
+        border-radius:25px;
+    }
+    .main{
+        text-align:center;
+        color:blue;
+        background-color: black;
+
+    }
+</style> 
